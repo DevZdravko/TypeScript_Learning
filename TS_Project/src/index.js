@@ -1,5 +1,5 @@
 "use strict";
-// Define a function that takes two parameters of type number and returns their sum.
+// Define aa function that takes two parameters of type number and returns their sum.
 function addNumbers(a, b) {
     return a + b;
 }
